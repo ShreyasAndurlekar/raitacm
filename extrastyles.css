@@ -1,0 +1,35 @@
+.stay-inside {
+    margin-right: 150px;
+   
+  }
+
+  @media (max-width: 768px) {
+  .stay-inside {
+    margin-left: 50px;
+    margin-right: 50px;}
+
+}
+
+/* first carousel code above */
+
+.owl-carousel .owl-nav {
+    position: absolute;
+    top: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+/* adjust the prev next buttons in the third carousel */
+
+.form-wrap {
+    display: flex;
+    align-items: center;
+  }
+
+  .form-control {
+    flex-grow: 1;
+    margin-right: 10px;
+    padding: 10px;
+  }
+
+/* fix the susbcribe button */
