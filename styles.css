@@ -33,3 +33,12 @@
   }
 
 /* fix the susbcribe button */
+
+.toptitle {
+
+  color: white;
+  font-family: 'Bai Jamjuree',serif;
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 10.5px;
+}

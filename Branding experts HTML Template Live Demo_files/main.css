@@ -310,7 +310,7 @@ h6,
   z-index: 9; }
 
 .navbar {
-  padding: 25px 15px; }
+  padding: 9px 10px; }
   @media (max-width: 992px) {
     .navbar .navbar-collapse {
       background: #222222;
