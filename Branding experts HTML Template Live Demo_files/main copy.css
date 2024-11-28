@@ -7,6 +7,8 @@
 /*  Basic Style 
 /* =================================== */
 
+
+
 ::selection {
   background-color: #7c32ff;
   color: #fff; }
@@ -133,6 +135,11 @@ h6,
 
 .mt--160 {
   margin-top: -160px; }
+
+  .mt--161 {
+    margin-top: 10px;
+  margin-bottom: 200px; }
+  
 
 .mt-10 {
   margin-top: 10px; }
