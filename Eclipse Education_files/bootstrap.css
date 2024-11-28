@@ -1276,7 +1276,8 @@ button.close {
 }
 
 .text-uppercase {
-    text-transform: uppercase !important
+    text-transform: uppercase !important;
+    color:black
 }
 
 .text-white {

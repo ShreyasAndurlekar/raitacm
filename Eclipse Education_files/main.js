@@ -67,7 +67,6 @@ $(function() {
 		margin: 30,
 		nav: true,
 		stagePadding: 60,
-		navText: [ "<img src='img/prev.png'>", "<img src='img/next.png'>" ],
 		responsive: {
 			0: {
 				items: 1,
