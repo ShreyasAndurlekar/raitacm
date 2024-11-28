@@ -852,7 +852,7 @@ h6,
   @media (max-width: 991px) {
     .registration-area {
       padding: 60px 0px;
-      background: #7c32ff; } }
+      background: rgb(0, 153, 255); } }
   .registration-area .section-title {
     padding-bottom: 0; }
   .registration-area .course-form-section {
